@@ -1,7 +1,7 @@
 function App() {
   return (
     <div style={{ fontFamily: 'sans-serif', padding: '2rem', textAlign: 'center' }}>
-      <h1>🚀 Mon premier déploiement</h1>
+      <h1>🚀 déploiment automatique fonctionnel</h1>
       <p>Projet réalisé par <strong>Alexandre LAURET</strong></p>
       <p>Future application : gestion de tâches Kanban</p>
     </div>
